@@ -1,0 +1,5 @@
+to shorten ms-dos command line
+  prompt $g
+
+powershell
+  function prompt{"> "}
